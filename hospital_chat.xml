@@ -1,0 +1,211 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Hello! Welcome to the hospital chatbot. How can I assist you today?
+        </template>
+    </category>
+   
+    <category>
+        <pattern>WHAT ARE YOUR WORKING HOURS</pattern>
+        <template>
+            We are open 24/7. You can visit us anytime.
+        </template>
+    </category>
+    
+    <category>
+        <pattern>WHERE ARE YOU LOCATED</pattern>
+        <template>
+            We are located at Sector1, Health Street, Mumbai City.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU HAVE A CARDIOLOGIST</pattern>
+        <template>
+	Yes, we have experienced cardiologists available. Would you like to book an appointment?
+        </template>
+    </category>
+    
+    <category>
+        <pattern>BOOK APPOINTMENT</pattern>
+        <template>
+            Please provide your name, preferred date, and time for the appointment.
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW CAN I CONTACT YOU</pattern>
+        <template>
+            You can call us at (91) 123-456-7890 or email us at contact@hospital.com.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU HAVE AN EMERGENCY ROOM</pattern>
+        <template>
+            Yes, we have a fully equipped emergency room available 24/7.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU OFFER PHYSICAL THERAPY</pattern>
+        <template>
+            Yes, we offer physical therapy services. Would you like to schedule an appointment?
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU PROVIDE LAB TESTS</pattern>
+        <template>
+            Yes, we provide a wide range of lab tests. Please contact us for more details.
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW CAN I ACCESS MY MEDICAL RECORDS</pattern>
+        <template>
+            You can access your medical records through our patient portal or by visiting the hospital.
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW CAN I PAY MY BILL</pattern>
+        <template>
+            You can pay your bill online, by phone, or in person at our billing department.
+        </template>
+    </category>
+
+    <category>
+        <pattern>CAN I PAY MY BILL ONLINE</pattern>
+        <template>
+            Yes, you can pay your bill online through our secure payment portal.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT PAYMENT METHODS DO YOU ACCEPT</pattern>
+        <template>
+            We accept cash, credit cards, and debit cards.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU HAVE FREE PARKING</pattern>
+        <template>
+            Yes, we offer free parking for our patients and visitors.
+        </template>
+    </category>
+
+    <category>
+        <pattern>IS WIFI AVAILABLE</pattern>
+        <template>
+            Yes, we offer free Wi-Fi throughout the hospital.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU HAVE A CAFETERIA</pattern>
+        <template>
+            Yes, we have a cafeteria that is open during regular business hours.
+        </template>
+    </category>
+
+    <category>
+        <pattern>CAN I BRING FOOD TO A PATIENT</pattern>
+        <template>
+            You can bring food to a patient, but please check with the patient's nurse or doctor for any dietary restrictions.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT SHOULD I DO IN AN EMERGENCY</pattern>
+        <template>
+            In case of an emergency, please call 911 or come to our emergency room immediately.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS THE EMERGENCY NUMBER</pattern>
+        <template>
+            The emergency number is 911.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE IS THE EMERGENCY ROOM</pattern>
+        <template>
+            The emergency room is located on the ground floor, near the main entrance.
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW CAN I PROVIDE FEEDBACK</pattern>
+        <template>
+            You can provide feedback by filling out a form at the reception or by contacting us online.
+        </template>
+    </category>
+
+    <category>
+        <pattern>HOW DO I FILE A COMPLAINT</pattern>
+        <template>
+            To file a complaint, please speak with our patient relations department or fill out a complaint form at the reception.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHO CAN I TALK TO ABOUT ISSUES</pattern>
+        <template>
+            If you have any issues, please contact our patient relations department.
+        </template>
+    </category>
+
+    <category>
+        <pattern>CAN I VISIT A PATIENT</pattern>
+        <template>
+            Yes, you can visit a patient during visiting hours, which are from 10 AM to 8 PM.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS THE POLICY ON VISITORS</pattern>
+        <template>
+            Visitors are allowed during designated hours. Please check with the patient's nurse for any specific policies.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE CAN I LEAVE A REVIEW</pattern>
+        <template>
+            You can leave a review on our website or on our social media pages.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT SHOULD I DO IF I HAVE A FEVER</pattern>
+        <template>
+            If you have a fever, drink plenty of fluids, rest, and monitor your symptoms. If the fever persists or worsens, please consult a doctor.
+        </template>
+    </category>
+
+   <category>
+        <pattern>WHAT INSURANCE DO YOU ACCEPT</pattern>
+        <template>
+            We accept various insurance plans. Please contact our billing department for more information.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DO YOU HAVE A PHARMACY</pattern>
+        <template>
+            Yes, we have an in-house pharmacy for your convenience.
+        </template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            Hi there! How can I help you today?
+        </template>
+    </category>
+</aiml>
