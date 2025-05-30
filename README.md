@@ -18,3 +18,8 @@ Save your AIML files (startup.xml and hospital_chat.aiml) in C:/Users/Asus/OneDr
 Save your Python script in a convenient location.
 Run the Python script.
 You can expand or modify this file to include additional categories or refine the responses based on specific needs or scenarios.
+
+screenshot
+![aiml](https://github.com/user-attachments/assets/40074335-bb61-4da9-b278-09589bc4156c)
+
+
